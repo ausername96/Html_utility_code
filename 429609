@@ -1,0 +1,148 @@
+<style>
+.title,.border,.date,.mention,.body{
+    margin: 0;
+    padding: 0;
+}
+
+.mention,.body,.date{
+    padding-top:20px;
+    padding-left:60px;
+    font-family:Arial;
+    font-weight:bold;
+    
+}
+
+.date{
+    color:lightseagreen;
+    padding-left:700px;
+    position:absolute ;
+    text-shadow:0.5px 0px 0.5px black;
+}
+.mention{
+    color:lightseagreen;
+    padding:0;
+    padding-left:45px;
+    padding-top:15px;
+    font-size:20px;
+    text-shadow:0.5px 0px 0.5px black;
+}
+
+.body{
+    padding-left:45px;
+    font-weight:lighter;
+    color:rgb(0,10,10);
+    padding-top:40px;
+    font-size:30px ;
+    font-family:Arial;
+}
+.border{
+    color:#FD0D0D;
+    background-color:#FD0D0D;
+    margin-top:6px;
+    padding-top:5px;
+    width:100px;
+    height:158px;
+    top:40;
+    left: 3;
+    text-align:left;
+    
+}
+.title{
+    margin-top:13px;
+    margin-left:8px;
+    color:white;
+    background-color:#ff6347;
+    padding-right:0;
+    padding-bottom:13px;
+    font-size:70px;:
+    font-weight:bold;
+    font-family:'Georgia',serif;
+    line-height:1;
+    position:absolute;
+    top:0;
+    left: 7;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.4);
+}
+</style>
+
+
+
+<p class="title">
+    I won't welcome you to my introduction page. 
+</p>
+
+
+<p class="border">
+   . 
+</p>
+
+
+<p class="date">18.07.2024 <span>&#183;</span> 1day ago. </p>
+
+
+<p class="mention">
+    @pradyut_human13 <span>&#x2714</span>
+</p>
+
+
+<p class="body">
+    Don't think that I'm a 16 yrs old. Just be in your limits and don't try to guess that I'm a std X student. Anyways I'm kinda a coder with decent intermediate skills, as you can't see that I've created this website with the code written by my own freaking hands.However,if you oneday suddenly get an urge to collaborate with me then don't mail me in the given below email. If you are having anger issues with me right now then you must checkout my other profiles in:
+</p>
+
+<style>
+.email{
+    color:cyan;
+    
+}
+.mail{
+    color:lightseagreen;
+    font-size:20px;
+    padding-left:45px;
+    text-shadow:0.5px 0px 0px black;
+}
+.patreon{
+    color:green;
+    text-shadow:2;
+    text-align:center;
+    text-decoration:underline;
+    font-size:18px;
+    padding-left:100px;
+    padding-top:5px;
+    padding-bottom:8px;
+    padding-right:100px;
+    background-color:greenyellow;
+     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.4);
+}
+.buy{
+    font-size:20px;
+    margin-left:45px;
+    
+}
+.git{
+    margin-top:10px;
+}
+.git,.lin,.yt{
+    color:lightseagreen;
+    text-shadow:0.5px 0.5px 0px black;
+    padding:0;
+    margin:0;
+    padding-left:45px;
+}
+</style>
+<p onclick= "window.location.href='https://github.com/ausername96';", class="git">
+    github.com
+</p>
+<p onclick=" window.location.href='https://m.youtube.com/watch?v=G3e-cpL7ofc&t=6866s';", class="yt">
+    youtube.com
+</p>
+<p class="lin">
+    linkedin.com
+</p>
+<p class="mail">
+    <strong>My email:</strong><span class="email"> human.chandra96@gmail.com</span>
+</p>
+</style>
+<p onclick="window.location.href='https://payments.google.com/gp/w/u/6/home/signup?sctid=979536524937685';", class="patreon">
+    <strong><span class="buy">Buy </span></strong>me a cup of desi chai. 
+</p>
+
